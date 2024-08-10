@@ -1,4 +1,4 @@
-# Portfolio Template
+# Portfolio
 [Description](#description) | [Prerequisites](#prerequisites) | [Demo](#demo) | [Important Git/Github Expectations](#important-gitgithub-expectations) | [Getting Started](#getting-started) | [Next Steps](#next-steps) | [Contributors](#contributors) | [Deployment](#deployment) | [Live Application](#live-application)
 ## Description
 This is a template portfolio that was built with React. You can use this project to help you build out your porfolio. This project provides the foundation for a portfolio and has minimal styling in place. There are currently four routes in this project: a `home page`, `projects page`, `contact page`, and `about me page`. The technologies used on this project include:
